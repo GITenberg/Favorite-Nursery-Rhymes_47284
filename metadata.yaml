@@ -1,9 +1,13 @@
 _repo: Favorite-Nursery-Rhymes_47284
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Betts, Ethel Franklin
     gutenberg_agent_id: '38776'
     url: http://www.gutenberg.org/2009/agents/38776
+covers:
+- cover_type: archival
+  image_path: 47284-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +18,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47284#Favorite-Nursery-Rhymes
 gutenberg_issued: '2014-11-04'
 gutenberg_type: Text
 identifiers:
